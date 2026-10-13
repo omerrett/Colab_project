@@ -1,0 +1,2 @@
+tissue = "achoooo"
+print(tissue)
