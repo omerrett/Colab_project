@@ -30,3 +30,7 @@ lb = pound
 # mole
 
 # candela
+
+# firkin
+
+firkin = Unit(name='firkin', abbr='fk', si=litre, to_si_fun=lambda n: n * 40.91481)
