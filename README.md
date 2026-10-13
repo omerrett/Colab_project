@@ -1,5 +1,26 @@
 # Oxford RSE Unit Conversion
 
+```text
+                                       /;    ;\
+                                   __  \\____//
+                                  /{_\_/   `'\____
+                                  \___   (o)  (o  }
+       _____________________________/          :--'
+   ,-,'`@@@@@@@@       @@@@@@         \_    `__\
+  ;:(  @@@@@@@@@        @@@             \___(o'o)
+  :: )  @@@@          @@@@@@        ,'@@(  `===='
+  :: : @@@@@:          @@@@         `@@@:
+  :: \  @@@@@:       @@@@@@@)    (  '@@@'
+  ;; /\      /`,    @@@@@@@@@\   :@@@@@)
+  ::/  )    {_----------------:  :~`,~~;
+ ;;'`; :   )                  :  / `; ;
+;;;; : :   ;                  :  ;  ; :
+`'`' / :  :                   :  :  : :
+    )_ \__;      ";"          :_ ;  \_\       `,','
+    :__\  \    * `,'*         \  \  :  \   *  8`;'*  *
+        `^'     \ :/           `^'  `-^-'   \v/ :  \/
+```
+
 [![Unittest](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml/badge.svg)](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml)
 
 ## Overview
